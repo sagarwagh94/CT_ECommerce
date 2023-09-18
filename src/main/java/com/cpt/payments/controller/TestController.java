@@ -78,6 +78,11 @@ public class TestController
 		return sub;
 	}
 	
+	@GetMapping("/helloworld")
+	public String helloworld()
+	{
+		return "helloworld....";
+	}
 	
 	
 }
