@@ -1,0 +1,153 @@
+[INFO ] 2023-09-14 00:22:10.853 [main] [ct-poc-service,,] PaymentValidationServiceApplication - Starting PaymentValidationServiceApplication using Java 1.8.0_05 on LAPTOP-GG4KJJHO with PID 21784 (D:\SEPT22_KARAD_PG_DAC\IT Job Mentorship Training\CT_SEPT2023_INTERNSHIP\ct-poc-service\ct-poc-service - Copy\target\classes started by HP in D:\SEPT22_KARAD_PG_DAC\IT Job Mentorship Training\CT_SEPT2023_INTERNSHIP\ct-poc-service\ct-poc-service - Copy)
+[INFO ] 2023-09-14 00:22:10.865 [main] [ct-poc-service,,] PaymentValidationServiceApplication - The following 1 profile is active: "local"
+[INFO ] 2023-09-14 00:22:12.839 [main] [ct-poc-service,,] GenericScope - BeanFactory id=d2d5b4ea-cbc2-3e08-b714-a23ae1ebfbe4
+[INFO ] 2023-09-14 00:22:14.300 [main] [ct-poc-service,,] TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2023-09-14 00:22:14.339 [main] [ct-poc-service,,] Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-09-14 00:22:14.343 [main] [ct-poc-service,,] StandardService - Starting service [Tomcat]
+[INFO ] 2023-09-14 00:22:14.344 [main] [ct-poc-service,,] StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.78]
+[INFO ] 2023-09-14 00:22:14.586 [main] [ct-poc-service,,] [/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2023-09-14 00:22:14.586 [main] [ct-poc-service,,] ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3653 ms
+[INFO ] 2023-09-14 00:22:18.567 [main] [ct-poc-service,,] EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+[INFO ] 2023-09-14 00:22:18.713 [main] [ct-poc-service,,] Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-09-14 00:22:18.754 [main] [ct-poc-service,,] TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2023-09-14 00:22:19.232 [main] [ct-poc-service,,] PaymentValidationServiceApplication - Started PaymentValidationServiceApplication in 9.549 seconds (JVM running for 11.509)
+[INFO ] 2023-09-14 00:27:28.711 [RMI TCP Connection(15)-127.0.0.1] [ct-poc-service,,] SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2023-09-14 00:27:28.972 [RMI TCP Connection(15)-127.0.0.1] [ct-poc-service,,] Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-09-14 00:27:28.973 [RMI TCP Connection(15)-127.0.0.1] [ct-poc-service,,] StandardService - Stopping service [Tomcat]
+[INFO ] 2023-09-14 00:27:28.989 [RMI TCP Connection(15)-127.0.0.1] [ct-poc-service,,] Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-09-14 00:27:28.996 [RMI TCP Connection(15)-127.0.0.1] [ct-poc-service,,] Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-09-14 00:46:54.428 [main] [ct-poc-service,,] PaymentValidationServiceApplication - Starting PaymentValidationServiceApplication using Java 1.8.0_05 on LAPTOP-GG4KJJHO with PID 22556 (D:\SEPT22_KARAD_PG_DAC\IT Job Mentorship Training\CT_SEPT2023_INTERNSHIP\ct-poc-service\ct-poc-service - Copy\target\classes started by HP in D:\SEPT22_KARAD_PG_DAC\IT Job Mentorship Training\CT_SEPT2023_INTERNSHIP\ct-poc-service\ct-poc-service - Copy)
+[INFO ] 2023-09-14 00:46:54.433 [main] [ct-poc-service,,] PaymentValidationServiceApplication - The following 1 profile is active: "local"
+[INFO ] 2023-09-14 00:46:56.101 [main] [ct-poc-service,,] GenericScope - BeanFactory id=11ae9efc-c23e-3fc7-994c-753ce6ef3c0d
+[INFO ] 2023-09-14 00:46:57.278 [main] [ct-poc-service,,] TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2023-09-14 00:46:57.310 [main] [ct-poc-service,,] Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-09-14 00:46:57.312 [main] [ct-poc-service,,] StandardService - Starting service [Tomcat]
+[INFO ] 2023-09-14 00:46:57.313 [main] [ct-poc-service,,] StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.78]
+[INFO ] 2023-09-14 00:46:57.548 [main] [ct-poc-service,,] [/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2023-09-14 00:46:57.548 [main] [ct-poc-service,,] ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3056 ms
+[INFO ] 2023-09-14 00:47:00.805 [main] [ct-poc-service,,] EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+[INFO ] 2023-09-14 00:47:00.907 [main] [ct-poc-service,,] Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-09-14 00:47:00.942 [main] [ct-poc-service,,] TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2023-09-14 00:47:01.371 [main] [ct-poc-service,,] PaymentValidationServiceApplication - Started PaymentValidationServiceApplication in 8.018 seconds (JVM running for 9.933)
+[INFO ] 2023-09-14 00:47:22.193 [http-nio-8080-exec-2] [ct-poc-service,,] [/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2023-09-14 00:47:22.194 [http-nio-8080-exec-2] [ct-poc-service,,] DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2023-09-14 00:47:22.197 [http-nio-8080-exec-2] [ct-poc-service,,] DispatcherServlet - Completed initialization in 3 ms
+[INFO ] 2023-09-14 01:06:16.792 [main] [ct-poc-service,,] PaymentValidationServiceApplication - Starting PaymentValidationServiceApplication using Java 1.8.0_05 on LAPTOP-GG4KJJHO with PID 26592 (D:\SEPT22_KARAD_PG_DAC\IT Job Mentorship Training\CT_SEPT2023_INTERNSHIP\ct-poc-service\ct-poc-service - Copy\target\classes started by HP in D:\SEPT22_KARAD_PG_DAC\IT Job Mentorship Training\CT_SEPT2023_INTERNSHIP\ct-poc-service\ct-poc-service - Copy)
+[INFO ] 2023-09-14 01:06:16.796 [main] [ct-poc-service,,] PaymentValidationServiceApplication - The following 1 profile is active: "local"
+[INFO ] 2023-09-14 01:06:18.212 [main] [ct-poc-service,,] GenericScope - BeanFactory id=11ae9efc-c23e-3fc7-994c-753ce6ef3c0d
+[INFO ] 2023-09-14 01:06:19.134 [main] [ct-poc-service,,] TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2023-09-14 01:06:19.156 [main] [ct-poc-service,,] Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-09-14 01:06:19.158 [main] [ct-poc-service,,] StandardService - Starting service [Tomcat]
+[INFO ] 2023-09-14 01:06:19.158 [main] [ct-poc-service,,] StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.78]
+[INFO ] 2023-09-14 01:06:19.531 [main] [ct-poc-service,,] [/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2023-09-14 01:06:19.531 [main] [ct-poc-service,,] ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2681 ms
+[INFO ] 2023-09-14 01:06:22.570 [main] [ct-poc-service,,] EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+[INFO ] 2023-09-14 01:06:22.668 [main] [ct-poc-service,,] Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[WARN ] 2023-09-14 01:06:22.675 [main] [ct-poc-service,,] AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8080 is already in use
+[INFO ] 2023-09-14 01:06:22.689 [main] [ct-poc-service,,] Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-09-14 01:06:22.689 [main] [ct-poc-service,,] StandardService - Stopping service [Tomcat]
+[INFO ] 2023-09-14 01:06:22.696 [main] [ct-poc-service,,] Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-09-14 01:06:22.697 [main] [ct-poc-service,,] Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8080"]
+[ERROR] 2023-09-14 01:06:22.806 [main] [ct-poc-service,,] LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+[INFO ] 2023-09-14 01:07:03.551 [main] [ct-poc-service,,] PaymentValidationServiceApplication - Starting PaymentValidationServiceApplication using Java 1.8.0_05 on LAPTOP-GG4KJJHO with PID 14572 (D:\SEPT22_KARAD_PG_DAC\IT Job Mentorship Training\CT_SEPT2023_INTERNSHIP\ct-poc-service\ct-poc-service - Copy\target\classes started by HP in D:\SEPT22_KARAD_PG_DAC\IT Job Mentorship Training\CT_SEPT2023_INTERNSHIP\ct-poc-service\ct-poc-service - Copy)
+[INFO ] 2023-09-14 01:07:03.555 [main] [ct-poc-service,,] PaymentValidationServiceApplication - The following 1 profile is active: "local"
+[INFO ] 2023-09-14 01:07:04.951 [main] [ct-poc-service,,] GenericScope - BeanFactory id=11ae9efc-c23e-3fc7-994c-753ce6ef3c0d
+[INFO ] 2023-09-14 01:07:05.938 [main] [ct-poc-service,,] TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2023-09-14 01:07:05.961 [main] [ct-poc-service,,] Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-09-14 01:07:05.964 [main] [ct-poc-service,,] StandardService - Starting service [Tomcat]
+[INFO ] 2023-09-14 01:07:05.970 [main] [ct-poc-service,,] StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.78]
+[INFO ] 2023-09-14 01:07:06.302 [main] [ct-poc-service,,] [/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2023-09-14 01:07:06.303 [main] [ct-poc-service,,] ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2695 ms
+[INFO ] 2023-09-14 01:07:09.289 [main] [ct-poc-service,,] EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+[INFO ] 2023-09-14 01:07:09.395 [main] [ct-poc-service,,] Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[WARN ] 2023-09-14 01:07:09.401 [main] [ct-poc-service,,] AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8080 is already in use
+[INFO ] 2023-09-14 01:07:09.416 [main] [ct-poc-service,,] Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-09-14 01:07:09.417 [main] [ct-poc-service,,] StandardService - Stopping service [Tomcat]
+[INFO ] 2023-09-14 01:07:09.422 [main] [ct-poc-service,,] Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-09-14 01:07:09.422 [main] [ct-poc-service,,] Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8080"]
+[ERROR] 2023-09-14 01:07:09.510 [main] [ct-poc-service,,] LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+[INFO ] 2023-09-14 01:07:33.713 [main] [ct-poc-service,,] PaymentValidationServiceApplication - Starting PaymentValidationServiceApplication using Java 1.8.0_05 on LAPTOP-GG4KJJHO with PID 9260 (D:\SEPT22_KARAD_PG_DAC\IT Job Mentorship Training\CT_SEPT2023_INTERNSHIP\ct-poc-service\ct-poc-service - Copy\target\classes started by HP in D:\SEPT22_KARAD_PG_DAC\IT Job Mentorship Training\CT_SEPT2023_INTERNSHIP\ct-poc-service\ct-poc-service - Copy)
+[INFO ] 2023-09-14 01:07:33.717 [main] [ct-poc-service,,] PaymentValidationServiceApplication - The following 1 profile is active: "local"
+[INFO ] 2023-09-14 01:07:35.123 [main] [ct-poc-service,,] GenericScope - BeanFactory id=11ae9efc-c23e-3fc7-994c-753ce6ef3c0d
+[INFO ] 2023-09-14 01:07:36.026 [main] [ct-poc-service,,] TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+[INFO ] 2023-09-14 01:07:36.048 [main] [ct-poc-service,,] Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+[INFO ] 2023-09-14 01:07:36.051 [main] [ct-poc-service,,] StandardService - Starting service [Tomcat]
+[INFO ] 2023-09-14 01:07:36.051 [main] [ct-poc-service,,] StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.78]
+[INFO ] 2023-09-14 01:07:36.416 [main] [ct-poc-service,,] [/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2023-09-14 01:07:36.417 [main] [ct-poc-service,,] ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2645 ms
+[INFO ] 2023-09-14 01:07:39.390 [main] [ct-poc-service,,] EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+[INFO ] 2023-09-14 01:07:39.498 [main] [ct-poc-service,,] Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+[INFO ] 2023-09-14 01:07:39.520 [main] [ct-poc-service,,] TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+[INFO ] 2023-09-14 01:07:39.932 [main] [ct-poc-service,,] PaymentValidationServiceApplication - Started PaymentValidationServiceApplication in 7.139 seconds (JVM running for 8.89)
+[INFO ] 2023-09-14 01:08:51.728 [http-nio-8081-exec-2] [ct-poc-service,,] [/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2023-09-14 01:08:51.728 [http-nio-8081-exec-2] [ct-poc-service,,] DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2023-09-14 01:08:51.734 [http-nio-8081-exec-2] [ct-poc-service,,] DispatcherServlet - Completed initialization in 6 ms
+[INFO ] 2023-09-14 01:14:58.764 [http-nio-8081-exec-7] [ct-poc-service,e9f6f77b13b3a679,e9f6f77b13b3a679] Parameters - Invalid chunk starting at byte [0] and ending at byte [3] with a value of [=10] ignored
+ Note: further occurrences of Parameter errors will be logged at DEBUG level.
+[WARN ] 2023-09-14 01:14:58.769 [http-nio-8081-exec-7] [ct-poc-service,e9f6f77b13b3a679,e9f6f77b13b3a679] DefaultHandlerExceptionResolver - Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'num1' for method parameter type int is not present]
+[WARN ] 2023-09-14 01:15:13.700 [http-nio-8081-exec-9] [ct-poc-service,c9ef4822e9dc048d,c9ef4822e9dc048d] DefaultHandlerExceptionResolver - Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'num1' for method parameter type int is not present]
+[INFO ] 2023-09-14 01:15:44.307 [RMI TCP Connection(10)-127.0.0.1] [ct-poc-service,,] SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2023-09-14 01:15:44.592 [RMI TCP Connection(10)-127.0.0.1] [ct-poc-service,,] Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8081"]
+[INFO ] 2023-09-14 01:15:44.592 [RMI TCP Connection(10)-127.0.0.1] [ct-poc-service,,] StandardService - Stopping service [Tomcat]
+[INFO ] 2023-09-14 01:15:44.596 [RMI TCP Connection(10)-127.0.0.1] [ct-poc-service,,] [/] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+[INFO ] 2023-09-14 01:15:44.607 [RMI TCP Connection(10)-127.0.0.1] [ct-poc-service,,] Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8081"]
+[INFO ] 2023-09-14 01:15:44.611 [RMI TCP Connection(10)-127.0.0.1] [ct-poc-service,,] Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8081"]
+[INFO ] 2023-09-14 01:16:20.576 [main] [ct-poc-service,,] PaymentValidationServiceApplication - Starting PaymentValidationServiceApplication using Java 1.8.0_05 on LAPTOP-GG4KJJHO with PID 3392 (D:\SEPT22_KARAD_PG_DAC\IT Job Mentorship Training\CT_SEPT2023_INTERNSHIP\ct-poc-service\ct-poc-service - Copy\target\classes started by HP in D:\SEPT22_KARAD_PG_DAC\IT Job Mentorship Training\CT_SEPT2023_INTERNSHIP\ct-poc-service\ct-poc-service - Copy)
+[INFO ] 2023-09-14 01:16:20.581 [main] [ct-poc-service,,] PaymentValidationServiceApplication - The following 1 profile is active: "local"
+[INFO ] 2023-09-14 01:16:22.125 [main] [ct-poc-service,,] GenericScope - BeanFactory id=11ae9efc-c23e-3fc7-994c-753ce6ef3c0d
+[INFO ] 2023-09-14 01:16:23.156 [main] [ct-poc-service,,] TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+[INFO ] 2023-09-14 01:16:23.181 [main] [ct-poc-service,,] Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+[INFO ] 2023-09-14 01:16:23.183 [main] [ct-poc-service,,] StandardService - Starting service [Tomcat]
+[INFO ] 2023-09-14 01:16:23.184 [main] [ct-poc-service,,] StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.78]
+[INFO ] 2023-09-14 01:16:23.471 [main] [ct-poc-service,,] [/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2023-09-14 01:16:23.472 [main] [ct-poc-service,,] ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2839 ms
+[INFO ] 2023-09-14 01:16:26.597 [main] [ct-poc-service,,] EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+[INFO ] 2023-09-14 01:16:26.705 [main] [ct-poc-service,,] Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+[INFO ] 2023-09-14 01:16:26.732 [main] [ct-poc-service,,] TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+[INFO ] 2023-09-14 01:16:27.125 [main] [ct-poc-service,,] PaymentValidationServiceApplication - Started PaymentValidationServiceApplication in 7.514 seconds (JVM running for 9.158)
+[INFO ] 2023-09-14 01:16:46.727 [http-nio-8081-exec-2] [ct-poc-service,,] [/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2023-09-14 01:16:46.727 [http-nio-8081-exec-2] [ct-poc-service,,] DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2023-09-14 01:16:46.730 [http-nio-8081-exec-2] [ct-poc-service,,] DispatcherServlet - Completed initialization in 3 ms
+[INFO ] 2023-09-14 01:16:46.763 [http-nio-8081-exec-2] [ct-poc-service,04c4b656979cd5bb,04c4b656979cd5bb] Parameters - Invalid chunk starting at byte [0] and ending at byte [3] with a value of [=10] ignored
+ Note: further occurrences of Parameter errors will be logged at DEBUG level.
+[WARN ] 2023-09-14 01:16:46.805 [http-nio-8081-exec-2] [ct-poc-service,04c4b656979cd5bb,04c4b656979cd5bb] DefaultHandlerExceptionResolver - Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'num1' for method parameter type int is not present]
+[WARN ] 2023-09-14 01:17:16.042 [http-nio-8081-exec-4] [ct-poc-service,d93fa39a8103e709,d93fa39a8103e709] DefaultHandlerExceptionResolver - Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'num1' for method parameter type int is not present]
+[WARN ] 2023-09-14 01:17:32.765 [http-nio-8081-exec-7] [ct-poc-service,ff53e8af8e752bef,ff53e8af8e752bef] DefaultHandlerExceptionResolver - Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'num1' for method parameter type int is not present]
+[INFO ] 2023-09-14 01:19:09.311 [RMI TCP Connection(6)-127.0.0.1] [ct-poc-service,,] SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2023-09-14 01:19:09.590 [RMI TCP Connection(6)-127.0.0.1] [ct-poc-service,,] Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8081"]
+[INFO ] 2023-09-14 01:19:09.591 [RMI TCP Connection(6)-127.0.0.1] [ct-poc-service,,] StandardService - Stopping service [Tomcat]
+[INFO ] 2023-09-14 01:19:09.594 [RMI TCP Connection(6)-127.0.0.1] [ct-poc-service,,] [/] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+[INFO ] 2023-09-14 01:19:09.603 [RMI TCP Connection(6)-127.0.0.1] [ct-poc-service,,] Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8081"]
+[INFO ] 2023-09-14 01:19:09.609 [RMI TCP Connection(6)-127.0.0.1] [ct-poc-service,,] Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8081"]
+[INFO ] 2023-09-14 01:21:26.819 [RMI TCP Connection(48)-127.0.0.1] [ct-poc-service,,] SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2023-09-14 01:21:27.066 [RMI TCP Connection(48)-127.0.0.1] [ct-poc-service,,] Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-09-14 01:21:27.067 [RMI TCP Connection(48)-127.0.0.1] [ct-poc-service,,] StandardService - Stopping service [Tomcat]
+[INFO ] 2023-09-14 01:21:27.070 [RMI TCP Connection(48)-127.0.0.1] [ct-poc-service,,] [/] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+[INFO ] 2023-09-14 01:21:27.082 [RMI TCP Connection(48)-127.0.0.1] [ct-poc-service,,] Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-09-14 01:21:27.087 [RMI TCP Connection(48)-127.0.0.1] [ct-poc-service,,] Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8080"]
