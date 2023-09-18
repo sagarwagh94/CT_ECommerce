@@ -10,6 +10,8 @@ import org.springframework.web.bind.annotation.RestController;
 import com.cpt.payments.pojo.AddRequest;
 import com.cpt.payments.pojo.AddResponse;
 
+
+
 @RestController
 public class TestController
 {
@@ -65,6 +67,17 @@ public class TestController
 		System.out.println("Subtraction res= "+res);
 		return res;
 	}
+	
+	@PostMapping("/SubPost")
+	public int SubPost(@RequestParam (value="val1")int num1,
+			@RequestParam(value="val2")int num2)
+	{
+		System.out.println("By Calling SubPost: num1= "+num1+" ,num2= "+num2);
+		int sub = num1 - num2;
+		System.out.println("Sub= "+sub);
+		return sub;
+	}
+	
 	
 	
 }
