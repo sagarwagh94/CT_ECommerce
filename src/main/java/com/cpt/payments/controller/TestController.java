@@ -84,6 +84,12 @@ public class TestController
 		return "helloworld....";
 	}
 	
+	@GetMapping("/getworld")
+	public String getworld()
+	{
+		return "Get world....";
+	}
+	
 	
 }
 
